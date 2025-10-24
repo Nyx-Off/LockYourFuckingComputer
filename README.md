@@ -2,16 +2,6 @@
 
 Un outil ludique et immersif pour sensibiliser vos collègues à la sécurité informatique en créant des fausses pages d'erreur personnalisées en plein écran !
 
-## ✨ Nouveautés v3.0
-
-- ✅ **Plein écran multi-écrans** : Détection et activation sur TOUS les écrans disponibles
-- ✅ **6 templates pré-faits** : Prêts à utiliser en 1 clic
-- ✅ **Lien QR personnalisable** : Choisissez où le lien "ici" et le QR code renvoient
-- ✅ **Blocage renforcé** : Plus difficile d'échapper au prank
-- ✅ **Design amélioré** : Interface moderne avec cartes de templates
-
-## 🎯 Fonctionnalités
-
 ### Templates pré-faits
 - 🥐 **Croissant Classique** - Le grand classique
 - 🔒 **Alerte Sécurité** - Erreur critique de verrouillage
@@ -42,31 +32,7 @@ Un outil ludique et immersif pour sensibiliser vos collègues à la sécurité i
 - Serveur web (Apache ou Nginx)
 - PHP 7.0+
 
-### Installation
-
-```bash
-# 1. Extraire les fichiers
-unzip lyfc.zip
-
-# 2. Placer dans votre serveur web
-cp -r lyfc /var/www/html/
-
-# 3. Accéder à l'application
-http://localhost/lyfc
-
-# C'est tout ! ✨
-```
-
 ## 🚀 Utilisation
-
-### Méthode 1 : Utiliser un template
-
-1. Ouvrez `http://localhost/lyfc`
-2. Cliquez sur un des 6 templates pré-faits
-3. (Optionnel) Personnalisez le contenu
-4. Cliquez sur "Générer le lien"
-5. Copiez l'URL
-6. Ouvrez sur le PC de votre victime ! 😈
 
 ### Méthode 2 : Créer de zéro
 
@@ -175,16 +141,6 @@ Rose :            #FF1493
 Vert :            #10b981
 ```
 
-## 😄 Emojis populaires
-
-```
-🔒 🔐 🗝️   Sécurité
-⚠️ 🚨 ⛔   Alerte
-🥐 ☕ 🍕 🍔 Nourriture
-😱 💀 👻   Peur
-💻 🖥️ ⌨️   Tech
-```
-
 ## 🐛 Dépannage
 
 ### Le plein écran ne se lance pas automatiquement
@@ -268,12 +224,3 @@ Projet open source - Utilisez-le librement et responsablement !
 # 🔒 LOCK YOUR FUCKING COMPUTER !
 ## WIN + L
 
----
-
-**Version** : 3.0 (Multi-écrans + Templates)  
-**Taille** : ~60 KB  
-**Prérequis** : Serveur web + PHP 7.0+  
-**Installation** : 1 minute  
-**Configuration** : 0 ✨
-
-**Bon prank ! 😈**
