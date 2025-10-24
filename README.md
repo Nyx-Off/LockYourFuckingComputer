@@ -49,7 +49,7 @@ Un outil ludique et immersif pour sensibiliser vos collègues à la sécurité i
 
 **Personnaliser le lien "ici" et le QR code** :
 - Par défaut : Pointe vers la page du prank
-- Personnalisé : Entrez une URL (ex: https://rickroll.com 😈)
+- Personnalisé : Entrez une URL
 - Le lien "ici" ET le QR code utiliseront cette URL
 
 ## 📂 Structure du projet
