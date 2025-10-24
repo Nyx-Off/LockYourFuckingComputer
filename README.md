@@ -196,28 +196,13 @@ Des idées pour de nouveaux templates ? Des améliorations ?
 - Signalez les bugs
 - Améliorez la doc
 
-## 📝 Changelog
+## 🦾 Inspirations 
 
-### v3.0 (Actuelle)
-- ➕ Plein écran multi-écrans
-- ➕ 6 templates pré-faits
-- ➕ Lien QR personnalisable
-- ➕ Design amélioré
-- ➕ Surveillance continue plein écran
-
-### v2.0
-- ➕ Suppression de la base de données
-- ➕ Génération d'URL directe
-- ➕ QR code automatique
-
-### v1.0
-- 🎉 Version initiale
+https://www.croissantage.com/
 
 ## 📜 Licence
 
 Projet open source - Utilisez-le librement et responsablement !
-
----
 
 ## 🎉 Et n'oubliez jamais...
 
